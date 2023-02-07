@@ -10,5 +10,6 @@ TBD
 + Add metric for recursive complexity derived from constituency parse
 + Modify notebooks for out of the box functionality
 + Filter dataset for prompts that are too long
-+ Add `tsv` files for prompt questions and scores
-+ Combine questions and contexts to create complete prompts and scores
++ ~~Add `tsv` files for prompt questions and scores~~
++ ~~Combine questions and contexts to create complete prompts and scores~~
++ Append multiple choice options to prompts
